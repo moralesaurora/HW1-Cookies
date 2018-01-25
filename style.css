@@ -1,0 +1,67 @@
+body {
+  background-color: #e3dcd6;
+  color: #005694;
+}
+
+#uniqueh1 {
+Text-align: center;
+color: #AF351B;
+  }
+
+.classh1 {
+  font-family: cursive;
+  color: #AF351B;
+  Text-align: right;
+  font-size: 8px;
+}
+
+h1 {
+  color: #AF351B;
+  font-size: 48px;
+  font-family: 'Dosis', sans-serif;
+  /* background-color: #dabfae; */
+}
+
+h3 {
+  color: #590000;
+  font-size: 28px;
+  font-family: 'Dosis', sans-serif;
+}
+
+h4 {
+  color: #590000;
+  font-size: 20px;
+  font-family: 'Dosis', sans-serif;
+}
+
+h5 {
+  color: #590000;
+  font-size: 18px;
+  font-family: 'Dosis', sans-serif;
+}
+
+h6 {
+  color: #590000;
+  font-size: 16px;
+  font-family: 'Dosis', sans-serif;
+}
+
+p {
+  color:#182838;
+  font-size: 15px;
+  font-family: 'Gudea', sans-serif;
+}
+
+ul {
+  color:#182838;
+  font-size: 15px;
+  font-family: 'Gudea', sans-serif;
+}
+
+ol {
+  color:#182838;
+  font-size: 15px;
+  font-family: 'Gudea', sans-serif;
+}
+
+/* h1, p - you can give sections the same style by doing that */
