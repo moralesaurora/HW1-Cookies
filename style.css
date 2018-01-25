@@ -8,6 +8,11 @@ Text-align: center;
 color: #AF351B;
   }
 
+img {
+  display: block;
+  margin:auto;
+}
+
 .classh1 {
   font-family: cursive;
   color: #AF351B;
